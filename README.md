@@ -14,7 +14,7 @@ As an example, the value for our `ARGS` variable will be `refresh --environmentI
 
 ![aci-create-2](aci-create-2.png)
 
-After provisioning, you should immediately be able to see the container execution status with the provided parameters as either Succeeded or Failed based on the status code of the `coa` CLI running in the container.
+After provisioning, you should eventually be able to see the container execution status with the provided parameters as either Succeeded or Failed based on the status code of the `coa` CLI running in the container.
 
 ![aci-create-3](aci-create-3.png)
 
